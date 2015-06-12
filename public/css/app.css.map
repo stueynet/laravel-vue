@@ -1,1 +1,1 @@
-{"version":3,"sources":["app.less","app.css"],"names":[],"mappings":"AAAA;EACE,eAAA;EACA,oBAAA;ECCD","file":"app.css","sourcesContent":["body{\n  margin: 2em 0;\n  background: yellow;\n}\n\n",null],"sourceRoot":"/source/"}
+{"version":3,"sources":[],"names":[],"mappings":"","file":"app.css","sourcesContent":[],"sourceRoot":"/source/"}
